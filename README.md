@@ -1,4 +1,4 @@
-# Crossy Road - Diana Joya
+# Crossy Road
 
 ## Overview
 
